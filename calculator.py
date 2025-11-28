@@ -1,5 +1,5 @@
-python
-Копировать
+#python
+#Копировать
 import tkinter as tk
 
 class Calculator:
@@ -153,4 +153,5 @@ class Calculator:
 root = tk.Tk()
 calc = Calculator(root)
 root.mainloop()
+
 
